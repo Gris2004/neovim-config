@@ -1,3 +1,7 @@
+--init.lua location - Linux: ~/.config/nvim/init.lua
+--init.lua location - Windows: C:\Users\User\AppData\Local\nvim\init.lua
+--if nvim directory doesn't exists, u can create the directory and the file too
+
 -- numero de lineas
 vim.opt.number = true
 
